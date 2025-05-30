@@ -43,7 +43,7 @@ Ao carregar o sistema, o usuário pode carregar os dados previamente salvos para
 3. Execute o arquivo da interface:
 
 ```bash
-python interface.py
+python gui.py
 ````
 
 > O sistema abrirá uma janela gráfica com as opções de reserva, cancelamento e manipulação de dados.
