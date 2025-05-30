@@ -109,7 +109,7 @@ O projeto foi desenvolvido usando princípios da **Programação Orientada a Obj
 
 ## 👤 Autor
 
-
+Gustavo Bonifácio de Oliveira - 241025659
 
 ```
 
