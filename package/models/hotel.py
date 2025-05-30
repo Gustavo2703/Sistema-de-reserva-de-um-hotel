@@ -1,8 +1,8 @@
 import os
 import json
 from typing import List
-from models.quarto import *
-from models.reserva import Reserva
+from .quarto import *
+from .reserva import Reserva
 
 CAMINHO_ARQUIVO = os.path.join(
     os.path.dirname(__file__), "..", "data", "dados_hotel.json"

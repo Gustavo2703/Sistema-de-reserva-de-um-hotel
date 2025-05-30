@@ -1,4 +1,4 @@
-from models.quarto import *
+from .quarto import *
 
 class Reserva:
     def __init__(self, quarto: Quarto, cliente: str, dias: int):

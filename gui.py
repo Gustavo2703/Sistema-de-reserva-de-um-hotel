@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import messagebox, simpledialog
-from models.hotel import Hotel
-from models.quarto import Standard, Familia, Luxo
+from package.models.hotel import Hotel
+from package.models.quarto import Standard, Familia, Luxo
 
 class HotelApp:
     def __init__(self, root):

@@ -1,4 +1,5 @@
-from models.hotel import *
+from package.models.hotel import *
+from package.models.quarto import Standard, Familia, Luxo
 
 def mostrar_menu():
     print("\n=== Sistema de Reservas ===")
