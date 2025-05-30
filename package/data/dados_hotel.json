@@ -1,0 +1,83 @@
+{
+    "nome": "Hotel Python",
+    "quartos": [
+        {
+            "numero": 101,
+            "tipo": "Standard",
+            "capacidade": 2,
+            "valor": 200,
+            "reservado": false
+        },
+        {
+            "numero": 102,
+            "tipo": "Standard",
+            "capacidade": 2,
+            "valor": 200,
+            "reservado": false
+        },
+        {
+            "numero": 103,
+            "tipo": "Standard",
+            "capacidade": 2,
+            "valor": 200,
+            "reservado": false
+        },
+        {
+            "numero": 104,
+            "tipo": "Standard",
+            "capacidade": 2,
+            "valor": 200,
+            "reservado": false
+        },
+        {
+            "numero": 105,
+            "tipo": "Standard",
+            "capacidade": 2,
+            "valor": 200,
+            "reservado": false
+        },
+        {
+            "numero": 201,
+            "tipo": "Familia",
+            "capacidade": 4,
+            "valor": 250,
+            "reservado": false
+        },
+        {
+            "numero": 202,
+            "tipo": "Familia",
+            "capacidade": 4,
+            "valor": 250,
+            "reservado": false
+        },
+        {
+            "numero": 203,
+            "tipo": "Familia",
+            "capacidade": 4,
+            "valor": 250,
+            "reservado": false
+        },
+        {
+            "numero": 301,
+            "tipo": "Luxo",
+            "capacidade": 2,
+            "valor": 300,
+            "reservado": false
+        },
+        {
+            "numero": 302,
+            "tipo": "Luxo",
+            "capacidade": 2,
+            "valor": 300,
+            "reservado": false
+        },
+        {
+            "numero": 303,
+            "tipo": "Luxo",
+            "capacidade": 2,
+            "valor": 300,
+            "reservado": false
+        }
+    ],
+    "reservas": []
+}
